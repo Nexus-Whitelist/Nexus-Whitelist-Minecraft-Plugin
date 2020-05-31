@@ -1,0 +1,7 @@
+name: Whitelister
+version: ${project.version}
+main: com.nexuswhitelist.whitelist.Whitelist
+api-version: 1.13
+authors: [zapdos26]
+description: Minecraft Whitelist Plugin for Nexus Whitelist
+website: https://nexuswhitelist.com
